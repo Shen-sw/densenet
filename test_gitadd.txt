@@ -8,3 +8,5 @@ print（“hello git！”）
 版本撤销测试
 ======================
 creating a new branch is quick
+======================
+creating a new branch is quick and simple
